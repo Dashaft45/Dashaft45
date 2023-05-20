@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Dasha, hise to meet you
+- 👀 I’m interested in programming and cotial ingenering, than i into painting and sport
+- 🌱 I’m currently learning by ingeneer in school 
+- 💞️ I’m looking to collaborate on my future
+- 📫 How to reach me mdasa9099@gmail.com, please for questions read the email, thanks.
+
+<!---
+Dashaft45/Dashaft45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
