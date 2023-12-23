@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dasha, hise to meet you
+- 👋 Hi, I’m Dasha, nice to meet you
 - 👀 I’m interested in programming and social enginering and i into painting and sport
 - 🌱 I’m currently learning by engineer in school 
 - 💞️ I’m looking to collaborate on my future with big and famous company, I hope and belive that i can get it
